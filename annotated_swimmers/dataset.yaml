@@ -1,0 +1,16 @@
+train: C:\\Field_Session_Project\\annotated_swimmers\YOLODataset_seg/images/train/
+val: C:\\Field_Session_Project\\annotated_swimmers\YOLODataset_seg/images/val/
+
+nc: 11
+names: 
+  0: full_body
+  1: head
+  2: hips
+  3: primary_hand
+  4: primary_foot
+  5: secondary_hand
+  6: secondary_foot
+  7: primary_arm
+  8: primary_leg
+  9: secondary_arm
+  10: secondary_leg
